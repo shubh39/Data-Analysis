@@ -1,0 +1,1001 @@
+Product_Name,Product_Price($),Year,Month,Shipping_Type,Geographic_Region,No_of_customers_who_bought_the_product,Customer_Type,Sales_M
+Television,1900,1818,Jan,$17 ,VIC,500,New,11
+Television,1900,1819,Feb,Free,VIC,510,Existing,13.2
+Television,1900,1820,Mar,Free,VIC,550,Existing,15.7
+Television,1900,1821,Apr,Free,VIC,560,New,15.9
+Television,1900,1822,May,$25 ,VIC,590,New,16.9
+Television,1900,1823,Jun,$18 ,VIC,,New,18.89
+Television,1900,1824,Jul,Free,VIC,634,New,20.34
+Television,1900,1825,Aug,Free,VIC,657,New,21.79
+Television,1900,1826,Sep,Free,VIC,680,Existing,23.24
+Television,1900,1827,Oct,$26 ,VIC,703,Existing,24.69
+Television,1900,1828,Nov,$19 ,VIC,726,New,26.14
+Television,1900,1829,Dec,Free,VIC,749,New,27.59
+Television,1900,1830,Jan,Free,VIC,,New,29.04
+Television,1900,1831,Feb,Free,VIC,795,New,30.49
+Television,1900,1832,Mar,$27 ,VIC,818,New,31.94
+Television,1900,1833,Apr,$20 ,VIC,841,Existing,33.39
+Television,1900,1834,May,Free,VIC,864,Existing,34.84
+Television,1900,1835,Jun,Free,VIC,887,New,36.29
+Television,1900,1836,Jul,Free,VIC,910,New,37.74
+Television,1900,1837,Aug,$28 ,VIC,933,New,39.19
+Television,1900,1838,Sep,$21 ,VIC,956,New,40.64
+Television,1900,1839,Oct,Free,VIC,979,New,42.09
+Television,1900,1840,Nov,Free,VIC,1002,Existing,43.54
+Television,1900,1841,Dec,Free,VIC,1025,Existing,44.99
+Television,1900,1842,Jan,$29 ,VIC,1048,New,46.44
+Television,1900,1843,Feb,$22 ,VIC,1071,New,47.89
+Television,1900,1844,Mar,Free,VIC,1094,New,49.34
+Television,1900,1845,Apr,Free,VIC,1117,New,50.79
+Television,1900,1846,May,Free,VIC,1140,New,52.24
+Television,1900,1847,Jun,$30 ,VIC,1163,Existing,53.69
+Television,1900,1848,Jul,$23 ,VIC,1186,Existing,55.14
+Television,1900,1849,Aug,Free,VIC,1209,New,56.59
+Television,1900,1850,Sep,Free,VIC,1232,Existing,58.04
+Television,1900,1851,Oct,Free,VIC,1255,Existing,59.49
+Television,1900,1852,Nov,$31 ,VIC,1278,New,60.94
+Television,1900,1853,Dec,$24 ,VIC,1301,New,62.39
+Television,1900,1854,Jan,Free,VIC,1324,New,63.84
+Television,1900,1855,Feb,Free,VIC,1347,New,65.29
+Television,1900,1856,Mar,Free,VIC,1370,New,66.74
+Television,1900,1857,Apr,$32 ,VIC,1393,Existing,68.19
+Television,1900,1858,May,$25 ,VIC,1416,Existing,69.64
+Television,1900,1859,Jun,Free,VIC,1439,New,71.09
+Television,1900,1860,Jul,Free,VIC,1462,New,72.54
+Television,1900,1861,Aug,Free,VIC,1485,New,73.99
+Television,1900,1862,Sep,$33 ,VIC,1508,New,75.44
+Television,1900,1863,Oct,$26 ,VIC,1531,New,76.89
+Television,1900,1864,Nov,Free,VIC,1554,Existing,78.34
+Television,1900,1865,Dec,Free,VIC,1577,Existing,79.79
+Television,1900,1866,Jan,Free,VIC,,New,81.24
+Television,1900,1867,Feb,$34 ,VIC,1623,New,82.69
+Television,1900,1868,Mar,$27 ,NSW,1646,New,84.14
+Television,1900,1869,Apr,Free,NSW,1669,Existing,85.59
+Television,1900,1870,May,Free,NSW,1692,Existing,87.04
+Television,1900,1871,Jun,Free,NSW,1715,New,88.49
+Television,1900,1872,Jul,$35 ,NSW,1738,New,89.94
+Television,1900,1873,Aug,$28 ,NSW,1761,New,91.39
+Television,1900,1874,Sep,Free,NSW,1784,New,92.84
+Television,1900,1875,Oct,Free,NSW,1807,New,94.29
+Television,1900,1876,Nov,Free,NSW,1830,Existing,95.74
+Television,1900,1877,Dec,$36 ,NSW,1853,Existing,97.19
+Television,1900,1878,Jan,$29 ,NSW,1876,New,98.64
+Television,1900,1879,Feb,Free,NSW,1899,New,100.09
+Television,1900,1880,Mar,Free,NSW,1922,New,101.54
+Television,1900,1881,Apr,Free,NSW,1945,New,102.99
+Television,1900,1882,May,$37 ,NSW,1968,New,104.44
+Television,1900,1883,Jun,$30 ,NSW,1991,Existing,105.89
+Television,1900,1884,Jul,Free,NSW,2014,Existing,107.34
+Television,1900,1885,Aug,Free,NSW,2037,New,108.79
+Television,1900,1886,Sep,Free,NSW,2060,New,110.24
+Television,1900,1887,Oct,$38 ,NSW,2083,New,111.69
+Television,1900,1888,Nov,$31 ,NSW,2106,New,113.14
+Television,1900,1889,Dec,Free,NSW,2129,New,114.59
+Television,1900,1890,Jan,Free,NSW,2152,Existing,116.04
+Television,1900,1891,Feb,Free,NSW,2175,Existing,117.49
+Television,1900,1892,Mar,$39 ,NSW,2198,New,118.94
+Television,1900,1893,Apr,$32 ,NSW,2221,New,120.39
+Television,1900,1894,May,Free,NSW,2244,New,121.84
+Television,1900,1895,Jun,Free,NSW,2267,New,123.29
+Television,1900,1896,Jul,Free,NSW,2290,New,124.74
+Television,1900,1897,Aug,$40 ,NSW,2313,Existing,126.19
+Television,1900,1898,Sep,$33 ,NSW,2336,Existing,127.64
+Television,1900,1899,Oct,Free,NSW,2359,New,129.09
+Television,1900,1900,Nov,Free,NSW,2382,Existing,130.54
+Television,1900,1901,Dec,Free,NSW,2405,Existing,131.99
+Television,1900,1902,Jan,$41 ,NSW,2428,New,133.44
+Television,1900,1903,Feb,$34 ,NSW,2451,New,134.89
+Television,1900,1904,Mar,Free,NSW,2474,New,136.34
+Television,1900,1905,Apr,Free,NSW,,New,137.79
+Television,1900,1906,May,Free,NSW,2520,New,139.24
+Television,1900,1907,Jun,$42 ,NSW,2543,Existing,140.69
+Television,1900,1908,Jul,$35 ,NSW,2566,Existing,142.14
+Television,1900,1909,Aug,Free,NSW,2589,New,143.59
+Television,1900,1910,Sep,Free,NSW,,New,145.04
+Television,1900,1911,Oct,Free,NSW,2635,New,146.49
+Television,1900,1912,Nov,$43 ,NSW,2658,New,147.94
+Television,1900,1913,Dec,$36 ,NSW,2681,New,149.39
+Television,1900,1914,Jan,Free,NSW,2704,Existing,150.84
+Television,1900,1915,Feb,Free,NSW,2727,Existing,152.29
+Television,1900,1916,Mar,Free,QLD,2750,New,153.74
+Television,1900,1917,Apr,$44 ,QLD,2773,New,155.19
+Television,1900,1918,May,$37 ,QLD,2796,New,156.64
+Television,1900,1919,Jun,Free,QLD,2819,Existing,158.09
+Television,1900,1920,Jul,Free,QLD,2842,Existing,159.54
+Television,1900,1921,Aug,Free,QLD,2865,New,160.99
+Television,1900,1922,Sep,$45 ,QLD,2888,New,162.44
+Television,1900,1923,Oct,$38 ,QLD,2911,New,163.89
+Television,1900,1924,Nov,Free,QLD,2934,New,165.34
+Television,1900,1925,Dec,Free,QLD,2957,New,166.79
+Television,1900,1926,Jan,Free,QLD,2980,Existing,168.24
+Television,1900,1927,Feb,$46 ,QLD,3003,Existing,169.69
+Television,1900,1928,Mar,$39 ,QLD,3026,New,171.14
+Television,1900,1929,Apr,Free,QLD,3049,New,172.59
+Television,1900,1930,May,Free,QLD,3072,New,174.04
+Television,1900,1931,Jun,Free,QLD,,New,175.49
+Television,1900,1932,Jul,$47 ,QLD,3118,New,176.94
+Television,1900,1933,Aug,$40 ,QLD,3141,Existing,178.39
+Television,1900,1934,Sep,Free,QLD,3164,Existing,179.84
+Television,1900,1935,Oct,Free,QLD,3187,New,181.29
+Television,1900,1936,Nov,Free,QLD,3210,New,182.74
+Television,1900,1937,Dec,$48 ,QLD,3233,New,184.19
+Television,1900,1938,Jan,$41 ,QLD,3256,New,185.64
+Television,1900,1939,Feb,Free,QLD,3279,New,187.09
+Television,1900,1940,Mar,Free,QLD,3302,Existing,188.54
+Television,1900,1941,Apr,Free,QLD,3325,Existing,189.99
+Television,1900,1942,May,$49 ,QLD,3348,New,191.44
+Television,1900,1943,Jun,$42 ,QLD,3371,New,192.89
+Television,1900,1944,Jul,Free,QLD,3394,New,194.34
+Television,1900,1945,Aug,Free,QLD,3417,New,195.79
+Television,1900,1946,Sep,Free,QLD,3440,New,197.24
+Television,1900,1947,Oct,$50 ,QLD,3463,Existing,198.69
+Television,1900,1948,Nov,$43 ,QLD,3486,Existing,200.14
+Television,1900,1949,Dec,Free,QLD,3509,New,201.59
+Television,1900,1950,Jan,Free,QLD,3532,Existing,203.04
+Television,1900,1951,Feb,Free,QLD,3555,Existing,204.49
+Television,1900,1952,Mar,$51 ,QLD,,New,205.94
+Television,1900,1953,Apr,$44 ,QLD,3601,New,207.39
+Television,1900,1954,May,Free,QLD,3624,New,208.84
+Television,1900,1955,Jun,Free,QLD,3647,New,210.29
+Television,1900,1956,Jul,Free,QLD,3670,New,211.74
+Television,1900,1957,Aug,$52 ,QLD,3693,Existing,213.19
+Television,1900,1958,Sep,$45 ,QLD,3716,Existing,214.64
+Television,1900,1959,Oct,Free,QLD,3739,New,216.09
+Television,1900,1960,Nov,Free,QLD,3762,New,217.54
+Television,1900,1961,Dec,Free,QLD,3785,New,218.99
+Television,1900,1962,Jan,$53 ,QLD,3808,New,220.44
+Television,1900,1963,Feb,$46 ,QLD,3831,New,221.89
+Television,1900,1964,Mar,Free,QLD,,Existing,223.34
+Television,1900,1965,Apr,Free,QLD,3877,Existing,224.79
+Television,1900,1966,May,Free,QLD,3900,New,226.24
+Television,1900,1967,Jun,$54 ,QLD,3923,New,227.69
+Television,1900,1968,Jul,$47 ,TAS,3946,New,229.14
+Television,1900,1969,Aug,Free,TAS,3969,Existing,230.59
+Television,1900,1970,Sep,Free,TAS,3992,Existing,232.04
+Television,1900,1971,Oct,Free,TAS,4015,New,233.49
+Television,1900,1972,Nov,$55 ,TAS,4038,New,234.94
+Television,1900,1973,Dec,$48 ,TAS,4061,New,236.39
+Television,1900,1974,Jan,Free,TAS,4084,New,237.84
+Television,1900,1975,Feb,Free,TAS,4107,New,239.29
+Television,1900,1976,Mar,Free,TAS,4130,Existing,240.74
+Television,1900,1977,Apr,$56 ,TAS,4153,Existing,242.19
+Television,1900,1978,May,$49 ,TAS,4176,New,243.64
+Television,1900,1979,Jun,Free,TAS,4199,New,245.09
+Television,1900,1980,Jul,Free,TAS,4222,New,246.54
+Television,1900,1981,Aug,Free,TAS,4245,New,247.99
+Television,1900,1982,Sep,$57 ,TAS,4268,New,249.44
+Television,1900,1983,Oct,$50 ,TAS,4291,Existing,250.89
+Television,1900,1984,Nov,Free,TAS,4314,Existing,252.34
+Television,1900,1985,Dec,Free,TAS,,New,253.79
+Television,1900,1986,Jan,Free,TAS,4360,New,255.24
+Television,1900,1987,Feb,$58 ,TAS,4383,New,256.69
+Television,1900,1988,Mar,$51 ,TAS,4406,New,258.14
+Television,1900,1989,Apr,Free,TAS,4429,New,259.59
+Television,1900,1990,May,Free,TAS,4452,Existing,261.04
+Television,1900,1991,Jun,Free,TAS,4475,Existing,262.49
+Television,1900,1992,Jul,$59 ,TAS,4498,New,263.94
+Television,1900,1993,Aug,$52 ,TAS,4521,New,265.39
+Television,1900,1994,Sep,Free,TAS,4544,New,266.84
+Television,1900,1995,Oct,Free,TAS,4567,New,268.29
+Television,1900,1996,Nov,Free,TAS,4590,New,269.74
+Television,1900,1997,Dec,$60 ,TAS,4613,Existing,271.19
+Television,1900,1998,Jan,$53 ,TAS,4636,Existing,272.64
+Television,1900,1999,Feb,Free,TAS,4659,New,274.09
+Television,1900,2000,Mar,Free,TAS,,Existing,275.54
+Television,1900,2001,Apr,Free,TAS,4705,Existing,276.99
+Television,1900,2002,May,$61 ,TAS,4728,New,278.44
+Television,1900,2003,Jun,$54 ,TAS,4751,New,279.89
+Television,1900,2004,Jul,Free,TAS,4774,New,281.34
+Television,1900,2005,Aug,Free,TAS,4797,New,282.79
+Television,1900,2006,Sep,Free,TAS,4820,New,284.24
+Television,1900,2007,Oct,$62 ,TAS,4843,Existing,285.69
+Television,1900,2008,Nov,$55 ,TAS,4866,Existing,287.14
+Television,1900,2009,Dec,Free,TAS,4889,New,288.59
+Television,1900,2010,Jan,Free,TAS,4912,New,290.04
+Television,1900,2011,Feb,Free,TAS,4935,New,291.49
+Television,1900,2012,Mar,$63 ,TAS,4958,New,292.94
+Television,1900,2013,Apr,$56 ,TAS,4981,New,294.39
+Television,1900,2014,May,Free,TAS,5004,Existing,295.84
+Television,1900,2015,Jun,Free,TAS,5027,Existing,297.29
+Television,1900,2016,Jul,Free,TAS,5050,New,298.74
+Television,1900,2017,Aug,$64 ,TAS,5073,New,300.19
+Refrigerator,1599,1818,Sep,$57 ,VIC,,New,13
+Refrigerator,1599,1819,Oct,Free,VIC,5119,Existing,16.7
+Refrigerator,1599,1820,Nov,Free,VIC,5142,Existing,19.2
+Refrigerator,1599,1821,Dec,Free,VIC,5165,New,21.4
+Refrigerator,1599,1822,Jan,$65 ,VIC,5188,New,25.5
+Refrigerator,1599,1823,Feb,$58 ,VIC,5211,New,28.07
+Refrigerator,1599,1824,Mar,Free,VIC,5234,New,31.04
+Refrigerator,1599,1825,Apr,Free,VIC,5257,New,34.01
+Refrigerator,1599,1826,May,Free,VIC,5280,Existing,36.98
+Refrigerator,1599,1827,Jun,$66 ,VIC,5303,Existing,39.95
+Refrigerator,1599,1828,Jul,$59 ,VIC,5326,New,42.92
+Refrigerator,1599,1829,Aug,Free,VIC,5349,New,45.89
+Refrigerator,1599,1830,Sep,Free,VIC,5372,New,48.86
+Refrigerator,1599,1831,Oct,Free,VIC,5395,New,51.83
+Refrigerator,1599,1832,Nov,$67 ,VIC,5418,New,54.8
+Refrigerator,1599,1833,Dec,$60 ,VIC,5441,Existing,57.77
+Refrigerator,1599,1834,Jan,Free,VIC,5464,Existing,60.74
+Refrigerator,1599,1835,Feb,Free,VIC,5487,New,63.71
+Refrigerator,1599,1836,Mar,Free,VIC,,New,66.68
+Refrigerator,1599,1837,Apr,$68 ,VIC,5533,New,69.65
+Refrigerator,1599,1838,May,$61 ,VIC,5556,New,72.62
+Refrigerator,1599,1839,Jun,Free,VIC,5579,New,75.59
+Refrigerator,1599,1840,Jul,Free,VIC,5602,Existing,78.56
+Refrigerator,1599,1841,Aug,Free,VIC,5625,Existing,81.53
+Refrigerator,1599,1842,Sep,$69 ,VIC,5648,New,84.5
+Refrigerator,1599,1843,Oct,$62 ,VIC,5671,New,87.47
+Refrigerator,1599,1844,Nov,Free,VIC,5694,New,90.44
+Refrigerator,1599,1845,Dec,Free,VIC,5717,New,93.41
+Refrigerator,1599,1846,Jan,Free,VIC,5740,New,96.38
+Refrigerator,1599,1847,Feb,$70 ,VIC,5763,Existing,99.35
+Refrigerator,1599,1848,Mar,$63 ,VIC,5786,Existing,102.32
+Refrigerator,1599,1849,Apr,Free,VIC,5809,New,105.29
+Refrigerator,1599,1850,May,Free,VIC,5832,Existing,108.26
+Refrigerator,1599,1851,Jun,Free,VIC,,Existing,111.23
+Refrigerator,1599,1852,Jul,$71 ,VIC,5878,New,114.2
+Refrigerator,1599,1853,Aug,$64 ,VIC,5901,New,117.17
+Refrigerator,1599,1854,Sep,Free,VIC,5924,New,120.14
+Refrigerator,1599,1855,Oct,Free,VIC,5947,New,123.11
+Refrigerator,1599,1856,Nov,Free,VIC,5970,New,126.08
+Refrigerator,1599,1857,Dec,$72 ,VIC,5993,Existing,129.05
+Refrigerator,1599,1858,Jan,$65 ,VIC,6016,Existing,132.02
+Refrigerator,1599,1859,Feb,Free,VIC,6039,New,134.99
+Refrigerator,1599,1860,Mar,Free,VIC,6062,New,137.96
+Refrigerator,1599,1861,Apr,Free,VIC,6085,New,140.93
+Refrigerator,1599,1862,May,$73 ,VIC,6108,New,143.9
+Refrigerator,1599,1863,Jun,$66 ,VIC,6131,New,146.87
+Refrigerator,1599,1864,Jul,Free,VIC,6154,Existing,149.84
+Refrigerator,1599,1865,Aug,Free,VIC,6177,Existing,152.81
+Refrigerator,1599,1866,Sep,Free,VIC,,New,155.78
+Refrigerator,1599,1867,Oct,$74 ,VIC,6223,New,158.75
+Refrigerator,1599,1868,Nov,$67 ,NSW,6246,New,161.72
+Refrigerator,1599,1869,Dec,Free,NSW,6269,Existing,164.69
+Refrigerator,1599,1870,Jan,Free,NSW,6292,Existing,167.66
+Refrigerator,1599,1871,Feb,Free,NSW,6315,New,170.63
+Refrigerator,1599,1872,Mar,$75 ,NSW,6338,New,173.6
+Refrigerator,1599,1873,Apr,$68 ,NSW,6361,New,176.57
+Refrigerator,1599,1874,May,Free,NSW,6384,New,179.54
+Refrigerator,1599,1875,Jun,Free,NSW,6407,New,182.51
+Refrigerator,1599,1876,Jul,Free,NSW,6430,Existing,185.48
+Refrigerator,1599,1877,Aug,$76 ,NSW,6453,Existing,188.45
+Refrigerator,1599,1878,Sep,$69 ,NSW,6476,New,191.42
+Refrigerator,1599,1879,Oct,Free,NSW,6499,New,194.39
+Refrigerator,1599,1880,Nov,Free,NSW,6522,New,197.36
+Refrigerator,1599,1881,Dec,Free,NSW,6545,New,200.33
+Refrigerator,1599,1882,Jan,$77 ,NSW,6568,New,203.3
+Refrigerator,1599,1883,Feb,$70 ,NSW,6591,Existing,206.27
+Refrigerator,1599,1884,Mar,Free,NSW,,Existing,209.24
+Refrigerator,1599,1885,Apr,Free,NSW,6637,New,212.21
+Refrigerator,1599,1886,May,Free,NSW,6660,New,215.18
+Refrigerator,1599,1887,Jun,$78 ,NSW,6683,New,218.15
+Refrigerator,1599,1888,Jul,$71 ,NSW,6706,New,221.12
+Refrigerator,1599,1889,Aug,Free,NSW,6729,New,224.09
+Refrigerator,1599,1890,Sep,Free,NSW,6752,Existing,227.06
+Refrigerator,1599,1891,Oct,Free,NSW,6775,Existing,230.03
+Refrigerator,1599,1892,Nov,$79 ,NSW,6798,New,233
+Refrigerator,1599,1893,Dec,$72 ,NSW,6821,New,235.97
+Refrigerator,1599,1894,Jan,Free,NSW,6844,New,238.94
+Refrigerator,1599,1895,Feb,Free,NSW,6867,New,241.91
+Refrigerator,1599,1896,Mar,Free,NSW,6890,New,244.88
+Refrigerator,1599,1897,Apr,$80 ,NSW,6913,Existing,247.85
+Refrigerator,1599,1898,May,$73 ,NSW,6936,Existing,250.82
+Refrigerator,1599,1899,Jun,Free,NSW,,New,253.79
+Refrigerator,1599,1900,Jul,Free,NSW,6982,Existing,256.76
+Refrigerator,1599,1901,Aug,Free,NSW,7005,Existing,259.73
+Refrigerator,1599,1902,Sep,$81 ,NSW,7028,New,262.7
+Refrigerator,1599,1903,Oct,$74 ,NSW,7051,New,265.67
+Refrigerator,1599,1904,Nov,Free,NSW,7074,New,268.64
+Refrigerator,1599,1905,Dec,Free,NSW,7097,New,271.61
+Refrigerator,1599,1906,Jan,Free,NSW,7120,New,274.58
+Refrigerator,1599,1907,Feb,$82 ,NSW,7143,Existing,277.55
+Refrigerator,1599,1908,Mar,$75 ,NSW,,Existing,280.52
+Refrigerator,1599,1909,Apr,Free,NSW,7189,New,283.49
+Refrigerator,1599,1910,May,Free,NSW,7212,New,286.46
+Refrigerator,1599,1911,Jun,Free,NSW,7235,New,289.43
+Refrigerator,1599,1912,Jul,$83 ,NSW,7258,New,292.4
+Refrigerator,1599,1913,Aug,$76 ,NSW,7281,New,295.37
+Refrigerator,1599,1914,Sep,Free,NSW,7304,Existing,298.34
+Refrigerator,1599,1915,Oct,Free,NSW,7327,Existing,301.31
+Refrigerator,1599,1916,Nov,Free,QLD,7350,New,304.28
+Refrigerator,1599,1917,Dec,$84 ,QLD,7373,New,307.25
+Refrigerator,1599,1918,Jan,$77 ,QLD,7396,New,310.22
+Refrigerator,1599,1919,Feb,Free,QLD,7419,Existing,313.19
+Refrigerator,1599,1920,Mar,Free,QLD,,Existing,316.16
+Refrigerator,1599,1921,Apr,Free,QLD,7465,New,319.13
+Refrigerator,1599,1922,May,$85 ,QLD,7488,New,322.1
+Refrigerator,1599,1923,Jun,$78 ,QLD,7511,New,325.07
+Refrigerator,1599,1924,Jul,Free,QLD,7534,New,328.04
+Refrigerator,1599,1925,Aug,Free,QLD,7557,New,331.01
+Refrigerator,1599,1926,Sep,Free,QLD,7580,Existing,333.98
+Refrigerator,1599,1927,Oct,$86 ,QLD,7603,Existing,336.95
+Refrigerator,1599,1928,Nov,$79 ,QLD,7626,New,339.92
+Refrigerator,1599,1929,Dec,Free,QLD,7649,New,342.89
+Refrigerator,1599,1930,Jan,Free,QLD,7672,New,345.86
+Refrigerator,1599,1931,Feb,Free,QLD,7695,New,348.83
+Refrigerator,1599,1932,Mar,$87 ,QLD,7718,New,351.8
+Refrigerator,1599,1933,Apr,$80 ,QLD,7741,Existing,354.77
+Refrigerator,1599,1934,May,Free,QLD,7764,Existing,357.74
+Refrigerator,1599,1935,Jun,Free,QLD,,New,360.71
+Refrigerator,1599,1936,Jul,Free,QLD,7810,New,363.68
+Refrigerator,1599,1937,Aug,$88 ,QLD,7833,New,366.65
+Refrigerator,1599,1938,Sep,$81 ,QLD,7856,New,369.62
+Refrigerator,1599,1939,Oct,Free,QLD,7879,New,372.59
+Refrigerator,1599,1940,Nov,Free,QLD,7902,Existing,375.56
+Refrigerator,1599,1941,Dec,Free,QLD,7925,Existing,378.53
+Refrigerator,1599,1942,Jan,$89 ,QLD,7948,New,381.5
+Refrigerator,1599,1943,Feb,$82 ,QLD,7971,New,384.47
+Refrigerator,1599,1944,Mar,Free,QLD,7994,New,387.44
+Refrigerator,1599,1945,Apr,Free,QLD,8017,New,390.41
+Refrigerator,1599,1946,May,Free,QLD,8040,New,393.38
+Refrigerator,1599,1947,Jun,$90 ,QLD,8063,Existing,396.35
+Refrigerator,1599,1948,Jul,$83 ,QLD,8086,Existing,399.32
+Refrigerator,1599,1949,Aug,Free,QLD,8109,New,402.29
+Refrigerator,1599,1950,Sep,Free,QLD,,Existing,405.26
+Refrigerator,1599,1951,Oct,Free,QLD,8155,Existing,408.23
+Refrigerator,1599,1952,Nov,$91 ,QLD,8178,New,411.2
+Refrigerator,1599,1953,Dec,$84 ,QLD,8201,New,414.17
+Refrigerator,1599,1954,Jan,Free,QLD,8224,New,417.14
+Refrigerator,1599,1955,Feb,Free,QLD,8247,New,420.11
+Refrigerator,1599,1956,Mar,Free,QLD,8270,New,423.08
+Refrigerator,1599,1957,Apr,$92 ,QLD,8293,Existing,426.05
+Refrigerator,1599,1958,May,$85 ,QLD,8316,Existing,429.02
+Refrigerator,1599,1959,Jun,Free,QLD,8339,New,431.99
+Refrigerator,1599,1960,Jul,Free,QLD,8362,New,434.96
+Refrigerator,1599,1961,Aug,Free,QLD,8385,New,437.93
+Refrigerator,1599,1962,Sep,$93 ,QLD,8408,New,440.9
+Refrigerator,1599,1963,Oct,$86 ,QLD,8431,New,443.87
+Refrigerator,1599,1964,Nov,Free,QLD,8454,Existing,446.84
+Refrigerator,1599,1965,Dec,Free,QLD,8477,Existing,449.81
+Refrigerator,1599,1966,Jan,Free,QLD,8500,New,452.78
+Refrigerator,1599,1967,Feb,$94 ,QLD,8523,New,455.75
+Refrigerator,1599,1968,Mar,$87 ,TAS,,New,458.72
+Refrigerator,1599,1969,Apr,Free,TAS,8569,Existing,461.69
+Refrigerator,1599,1970,May,Free,TAS,8592,Existing,464.66
+Refrigerator,1599,1971,Jun,Free,TAS,8615,New,467.63
+Refrigerator,1599,1972,Jul,$95 ,TAS,8638,New,470.6
+Refrigerator,1599,1973,Aug,$88 ,TAS,8661,New,473.57
+Refrigerator,1599,1974,Sep,Free,TAS,8684,New,476.54
+Refrigerator,1599,1975,Oct,Free,TAS,8707,New,479.51
+Refrigerator,1599,1976,Nov,Free,TAS,8730,Existing,482.48
+Refrigerator,1599,1977,Dec,$96 ,TAS,8753,Existing,485.45
+Refrigerator,1599,1978,Jan,$89 ,TAS,8776,New,488.42
+Refrigerator,1599,1979,Feb,Free,TAS,8799,New,491.39
+Refrigerator,1599,1980,Mar,Free,TAS,8822,New,494.36
+Refrigerator,1599,1981,Apr,Free,TAS,8845,New,497.33
+Refrigerator,1599,1982,May,$97 ,TAS,8868,New,500.3
+Refrigerator,1599,1983,Jun,$90 ,TAS,8891,Existing,503.27
+Refrigerator,1599,1984,Jul,Free,TAS,8914,Existing,506.24
+Refrigerator,1599,1985,Aug,Free,TAS,8937,New,509.21
+Refrigerator,1599,1986,Sep,Free,TAS,,New,512.18
+Refrigerator,1599,1987,Oct,$98 ,TAS,8983,New,515.15
+Refrigerator,1599,1988,Nov,$91 ,TAS,9006,New,518.12
+Refrigerator,1599,1989,Dec,Free,TAS,9029,New,521.09
+Refrigerator,1599,1990,Jan,Free,TAS,9052,Existing,524.06
+Refrigerator,1599,1991,Feb,Free,TAS,9075,Existing,527.03
+Refrigerator,1599,1992,Mar,$99 ,TAS,9098,New,530
+Refrigerator,1599,1993,Apr,$92 ,TAS,9121,New,532.97
+Refrigerator,1599,1994,May,Free,TAS,9144,New,535.94
+Refrigerator,1599,1995,Jun,Free,TAS,9167,New,538.91
+Refrigerator,1599,1996,Jul,Free,TAS,9190,New,541.88
+Refrigerator,1599,1997,Aug,$100 ,TAS,9213,Existing,544.85
+Refrigerator,1599,1998,Sep,$93 ,TAS,9236,Existing,547.82
+Refrigerator,1599,1999,Oct,Free,TAS,9259,New,550.79
+Refrigerator,1599,2000,Nov,Free,TAS,9282,Existing,553.76
+Refrigerator,1599,2001,Dec,Free,TAS,9305,Existing,556.73
+Refrigerator,1599,2002,Jan,$101 ,TAS,9328,New,559.7
+Refrigerator,1599,2003,Feb,$94 ,TAS,9351,New,562.67
+Refrigerator,1599,2004,Mar,Free,TAS,9374,New,565.64
+Refrigerator,1599,2005,Apr,Free,TAS,9397,New,568.61
+Refrigerator,1599,2006,May,Free,TAS,9420,New,571.58
+Refrigerator,1599,2007,Jun,$102 ,TAS,,Existing,574.55
+Refrigerator,1599,2008,Jul,$95 ,TAS,9466,Existing,577.52
+Refrigerator,1599,2009,Aug,Free,TAS,9489,New,580.49
+Refrigerator,1599,2010,Sep,Free,TAS,9512,New,583.46
+Refrigerator,1599,2011,Oct,Free,TAS,9535,New,586.43
+Refrigerator,1599,2012,Nov,$103 ,TAS,9558,New,589.4
+Refrigerator,1599,2013,Dec,$96 ,TAS,9581,New,592.37
+Refrigerator,1599,2014,Jan,Free,TAS,9604,Existing,595.34
+Refrigerator,1599,2015,Feb,Free,TAS,9627,Existing,598.31
+Refrigerator,1599,2016,Mar,Free,TAS,9650,New,601.28
+Refrigerator,1599,2017,Apr,$104 ,TAS,9673,New,604.25
+Washing Machine,1399,1818,May,$97 ,VIC,9696,New,13.6
+Washing Machine,1399,1819,Jun,Free,VIC,9719,Existing,16.5
+Washing Machine,1399,1820,Jul,Free,VIC,9742,Existing,19.7
+Washing Machine,1399,1821,Aug,Free,VIC,9765,New,24.6
+Washing Machine,1399,1822,Sep,$105 ,VIC,,New,29.1
+Washing Machine,1399,1823,Oct,$98 ,VIC,9811,New,32.43
+Washing Machine,1399,1824,Nov,Free,VIC,9834,New,36.34
+Washing Machine,1399,1825,Dec,Free,VIC,9857,New,40.25
+Washing Machine,1399,1826,Jan,Free,VIC,9880,Existing,44.16
+Washing Machine,1399,1827,Feb,$106 ,VIC,9903,Existing,48.07
+Washing Machine,1399,1828,Mar,$99 ,VIC,9926,New,51.98
+Washing Machine,1399,1829,Apr,Free,VIC,9949,New,55.89
+Washing Machine,1399,1830,May,Free,VIC,9972,New,59.8
+Washing Machine,1399,1831,Jun,Free,VIC,9995,New,63.71
+Washing Machine,1399,1832,Jul,$107 ,VIC,10018,New,67.62
+Washing Machine,1399,1833,Aug,$100 ,VIC,10041,Existing,71.53
+Washing Machine,1399,1834,Sep,Free,VIC,10064,Existing,75.44
+Washing Machine,1399,1835,Oct,Free,VIC,10087,New,79.35
+Washing Machine,1399,1836,Nov,Free,VIC,10110,New,83.26
+Washing Machine,1399,1837,Dec,$108 ,VIC,,New,87.17
+Washing Machine,1399,1838,Jan,$101 ,VIC,10156,New,91.08
+Washing Machine,1399,1839,Feb,Free,VIC,10179,New,94.99
+Washing Machine,1399,1840,Mar,Free,VIC,10202,Existing,98.9
+Washing Machine,1399,1841,Apr,Free,VIC,10225,Existing,102.81
+Washing Machine,1399,1842,May,$109 ,VIC,10248,New,106.72
+Washing Machine,1399,1843,Jun,$102 ,VIC,10271,New,110.63
+Washing Machine,1399,1844,Jul,Free,VIC,10294,New,114.54
+Washing Machine,1399,1845,Aug,Free,VIC,10317,New,118.45
+Washing Machine,1399,1846,Sep,Free,VIC,10340,New,122.36
+Washing Machine,1399,1847,Oct,$110 ,VIC,10363,Existing,126.27
+Washing Machine,1399,1848,Nov,$103 ,VIC,10386,Existing,130.18
+Washing Machine,1399,1849,Dec,Free,VIC,10409,New,134.09
+Washing Machine,1399,1850,Jan,Free,VIC,10432,Existing,138
+Washing Machine,1399,1851,Feb,Free,VIC,10455,Existing,141.91
+Washing Machine,1399,1852,Mar,$111 ,VIC,,New,145.82
+Washing Machine,1399,1853,Apr,$104 ,VIC,10501,New,149.73
+Washing Machine,1399,1854,May,Free,VIC,10524,New,153.64
+Washing Machine,1399,1855,Jun,Free,VIC,10547,New,157.55
+Washing Machine,1399,1856,Jul,Free,VIC,10570,New,161.46
+Washing Machine,1399,1857,Aug,$112 ,VIC,10593,Existing,165.37
+Washing Machine,1399,1858,Sep,$105 ,VIC,10616,Existing,169.28
+Washing Machine,1399,1859,Oct,Free,VIC,10639,New,173.19
+Washing Machine,1399,1860,Nov,Free,VIC,10662,New,177.1
+Washing Machine,1399,1861,Dec,Free,VIC,10685,New,181.01
+Washing Machine,1399,1862,Jan,$113 ,VIC,10708,New,184.92
+Washing Machine,1399,1863,Feb,$106 ,VIC,10731,New,188.83
+Washing Machine,1399,1864,Mar,Free,VIC,10754,Existing,192.74
+Washing Machine,1399,1865,Apr,Free,VIC,10777,Existing,196.65
+Washing Machine,1399,1866,May,Free,VIC,10800,New,200.56
+Washing Machine,1399,1867,Jun,$114 ,VIC,,New,204.47
+Washing Machine,1399,1868,Jul,$107 ,NSW,10846,New,208.38
+Washing Machine,1399,1869,Aug,Free,NSW,10869,Existing,212.29
+Washing Machine,1399,1870,Sep,Free,NSW,10892,Existing,216.2
+Washing Machine,1399,1871,Oct,Free,NSW,10915,New,220.11
+Washing Machine,1399,1872,Nov,$115 ,NSW,10938,New,224.02
+Washing Machine,1399,1873,Dec,$108 ,NSW,10961,New,227.93
+Washing Machine,1399,1874,Jan,Free,NSW,10984,New,231.84
+Washing Machine,1399,1875,Feb,Free,NSW,11007,New,235.75
+Washing Machine,1399,1876,Mar,Free,NSW,,Existing,239.66
+Washing Machine,1399,1877,Apr,$116 ,NSW,11053,Existing,243.57
+Washing Machine,1399,1878,May,$109 ,NSW,11076,New,247.48
+Washing Machine,1399,1879,Jun,Free,NSW,11099,New,251.39
+Washing Machine,1399,1880,Jul,Free,NSW,11122,New,255.3
+Washing Machine,1399,1881,Aug,Free,NSW,,New,259.21
+Washing Machine,1399,1882,Sep,$117 ,NSW,11168,New,263.12
+Washing Machine,1399,1883,Oct,$110 ,NSW,11191,Existing,267.03
+Washing Machine,1399,1884,Nov,Free,NSW,11214,Existing,270.94
+Washing Machine,1399,1885,Dec,Free,NSW,11237,New,274.85
+Washing Machine,1399,1886,Jan,Free,NSW,11260,New,278.76
+Washing Machine,1399,1887,Feb,$118 ,NSW,11283,New,282.67
+Washing Machine,1399,1888,Mar,$111 ,NSW,11306,New,286.58
+Washing Machine,1399,1889,Apr,Free,NSW,11329,New,290.49
+Washing Machine,1399,1890,May,Free,NSW,11352,Existing,294.4
+Washing Machine,1399,1891,Jun,Free,NSW,11375,Existing,298.31
+Washing Machine,1399,1892,Jul,$119 ,NSW,11398,New,302.22
+Washing Machine,1399,1893,Aug,$112 ,NSW,11421,New,306.13
+Washing Machine,1399,1894,Sep,Free,NSW,11444,New,310.04
+Washing Machine,1399,1895,Oct,Free,NSW,11467,New,313.95
+Washing Machine,1399,1896,Nov,Free,NSW,11490,New,317.86
+Washing Machine,1399,1897,Dec,$120 ,NSW,11513,Existing,321.77
+Washing Machine,1399,1898,Jan,$113 ,NSW,11536,Existing,325.68
+Washing Machine,1399,1899,Feb,Free,NSW,11559,New,329.59
+Washing Machine,1399,1900,Mar,Free,NSW,11582,Existing,333.5
+Washing Machine,1399,1901,Apr,Free,NSW,11605,Existing,337.41
+Washing Machine,1399,1902,May,$121 ,NSW,11628,New,341.32
+Washing Machine,1399,1903,Jun,$114 ,NSW,11651,New,345.23
+Washing Machine,1399,1904,Jul,Free,NSW,11674,New,349.14
+Washing Machine,1399,1905,Aug,Free,NSW,11697,New,353.05
+Washing Machine,1399,1906,Sep,Free,NSW,11720,New,356.96
+Washing Machine,1399,1907,Oct,$122 ,NSW,11743,Existing,360.87
+Washing Machine,1399,1908,Nov,$115 ,NSW,11766,Existing,364.78
+Washing Machine,1399,1909,Dec,Free,NSW,11789,New,368.69
+Washing Machine,1399,1910,Jan,Free,NSW,11812,New,372.6
+Washing Machine,1399,1911,Feb,Free,NSW,11835,New,376.51
+Washing Machine,1399,1912,Mar,$123 ,NSW,11858,New,380.42
+Washing Machine,1399,1913,Apr,$116 ,NSW,11881,New,384.33
+Washing Machine,1399,1914,May,Free,NSW,11904,Existing,388.24
+Washing Machine,1399,1915,Jun,Free,NSW,11927,Existing,392.15
+Washing Machine,1399,1916,Jul,Free,QLD,11950,New,396.06
+Washing Machine,1399,1917,Aug,$124 ,QLD,11973,New,399.97
+Washing Machine,1399,1918,Sep,$117 ,QLD,11996,New,403.88
+Washing Machine,1399,1919,Oct,Free,QLD,12019,Existing,407.79
+Washing Machine,1399,1920,Nov,Free,QLD,12042,Existing,411.7
+Washing Machine,1399,1921,Dec,Free,QLD,12065,New,415.61
+Washing Machine,1399,1922,Jan,$125 ,QLD,12088,New,419.52
+Washing Machine,1399,1923,Feb,$118 ,QLD,12111,New,423.43
+Washing Machine,1399,1924,Mar,Free,QLD,12134,New,427.34
+Washing Machine,1399,1925,Apr,Free,QLD,12157,New,431.25
+Washing Machine,1399,1926,May,Free,QLD,12180,Existing,435.16
+Washing Machine,1399,1927,Jun,$126 ,QLD,12203,Existing,439.07
+Washing Machine,1399,1928,Jul,$119 ,QLD,,New,442.98
+Washing Machine,1399,1929,Aug,Free,QLD,12249,New,446.89
+Washing Machine,1399,1930,Sep,Free,QLD,12272,New,450.8
+Washing Machine,1399,1931,Oct,Free,QLD,12295,New,454.71
+Washing Machine,1399,1932,Nov,$127 ,QLD,12318,New,458.62
+Washing Machine,1399,1933,Dec,$120 ,QLD,12341,Existing,462.53
+Washing Machine,1399,1934,Jan,Free,QLD,12364,Existing,466.44
+Washing Machine,1399,1935,Feb,Free,QLD,12387,New,470.35
+Washing Machine,1399,1936,Mar,Free,QLD,12410,New,474.26
+Washing Machine,1399,1937,Apr,$128 ,QLD,12433,New,478.17
+Washing Machine,1399,1938,May,$121 ,QLD,12456,New,482.08
+Washing Machine,1399,1939,Jun,Free,QLD,12479,New,485.99
+Washing Machine,1399,1940,Jul,Free,QLD,12502,Existing,489.9
+Washing Machine,1399,1941,Aug,Free,QLD,12525,Existing,493.81
+Washing Machine,1399,1942,Sep,$129 ,QLD,12548,New,497.72
+Washing Machine,1399,1943,Oct,$122 ,QLD,12571,New,501.63
+Washing Machine,1399,1944,Nov,Free,QLD,12594,New,505.54
+Washing Machine,1399,1945,Dec,Free,QLD,12617,New,509.45
+Washing Machine,1399,1946,Jan,Free,QLD,12640,New,513.36
+Washing Machine,1399,1947,Feb,$130 ,QLD,12663,Existing,517.27
+Washing Machine,1399,1948,Mar,$123 ,QLD,12686,Existing,521.18
+Washing Machine,1399,1949,Apr,Free,QLD,12709,New,525.09
+Washing Machine,1399,1950,May,Free,QLD,12732,Existing,529
+Washing Machine,1399,1951,Jun,Free,QLD,12755,Existing,532.91
+Washing Machine,1399,1952,Jul,$131 ,QLD,12778,New,536.82
+Washing Machine,1399,1953,Aug,$124 ,QLD,12801,New,540.73
+Washing Machine,1399,1954,Sep,Free,QLD,12824,New,544.64
+Washing Machine,1399,1955,Oct,Free,QLD,12847,New,548.55
+Washing Machine,1399,1956,Nov,Free,QLD,12870,New,552.46
+Washing Machine,1399,1957,Dec,$132 ,QLD,12893,Existing,556.37
+Washing Machine,1399,1958,Jan,$125 ,QLD,12916,Existing,560.28
+Washing Machine,1399,1959,Feb,Free,QLD,12939,New,564.19
+Washing Machine,1399,1960,Mar,Free,QLD,12962,New,568.1
+Washing Machine,1399,1961,Apr,Free,QLD,12985,New,572.01
+Washing Machine,1399,1962,May,$133 ,QLD,13008,New,575.92
+Washing Machine,1399,1963,Jun,$126 ,QLD,13031,New,579.83
+Washing Machine,1399,1964,Jul,Free,QLD,13054,Existing,583.74
+Washing Machine,1399,1965,Aug,Free,QLD,13077,Existing,587.65
+Washing Machine,1399,1966,Sep,Free,QLD,13100,New,591.56
+Washing Machine,1399,1967,Oct,$134 ,QLD,13123,New,595.47
+Washing Machine,1399,1968,Nov,$127 ,TAS,13146,New,599.38
+Washing Machine,1399,1969,Dec,Free,TAS,13169,Existing,603.29
+Washing Machine,1399,1970,Jan,Free,TAS,13192,Existing,607.2
+Washing Machine,1399,1971,Feb,Free,TAS,13215,New,611.11
+Washing Machine,1399,1972,Mar,$135 ,TAS,13238,New,615.02
+Washing Machine,1399,1973,Apr,$128 ,TAS,13261,New,618.93
+Washing Machine,1399,1974,May,Free,TAS,13284,New,622.84
+Washing Machine,1399,1975,Jun,Free,TAS,13307,New,626.75
+Washing Machine,1399,1976,Jul,Free,TAS,13330,Existing,630.66
+Washing Machine,1399,1977,Aug,$136 ,TAS,13353,Existing,634.57
+Washing Machine,1399,1978,Sep,$129 ,TAS,,New,638.48
+Washing Machine,1399,1979,Oct,Free,TAS,13399,New,642.39
+Washing Machine,1399,1980,Nov,Free,TAS,13422,New,646.3
+Washing Machine,1399,1981,Dec,Free,TAS,13445,New,650.21
+Washing Machine,1399,1982,Jan,$137 ,TAS,13468,New,654.12
+Washing Machine,1399,1983,Feb,$130 ,TAS,13491,Existing,658.03
+Washing Machine,1399,1984,Mar,Free,TAS,13514,Existing,661.94
+Washing Machine,1399,1985,Apr,Free,TAS,13537,New,665.85
+Washing Machine,1399,1986,May,Free,TAS,13560,New,669.76
+Washing Machine,1399,1987,Jun,$138 ,TAS,13583,New,673.67
+Washing Machine,1399,1988,Jul,$131 ,TAS,13606,New,677.58
+Washing Machine,1399,1989,Aug,Free,TAS,13629,New,681.49
+Washing Machine,1399,1990,Sep,Free,TAS,13652,Existing,685.4
+Washing Machine,1399,1991,Oct,Free,TAS,13675,Existing,689.31
+Washing Machine,1399,1992,Nov,$139 ,TAS,13698,New,693.22
+Washing Machine,1399,1993,Dec,$132 ,TAS,13721,New,697.13
+Washing Machine,1399,1994,Jan,Free,TAS,13744,New,701.04
+Washing Machine,1399,1995,Feb,Free,TAS,13767,New,704.95
+Washing Machine,1399,1996,Mar,Free,TAS,13790,New,708.86
+Washing Machine,1399,1997,Apr,$140 ,TAS,13813,Existing,712.77
+Washing Machine,1399,1998,May,$133 ,TAS,13836,Existing,716.68
+Washing Machine,1399,1999,Jun,Free,TAS,13859,New,720.59
+Washing Machine,1399,2000,Jul,Free,TAS,13882,Existing,724.5
+Washing Machine,1399,2001,Aug,Free,TAS,13905,Existing,728.41
+Washing Machine,1399,2002,Sep,$141 ,TAS,13928,New,732.32
+Washing Machine,1399,2003,Oct,$134 ,TAS,13951,New,736.23
+Washing Machine,1399,2004,Nov,Free,TAS,13974,New,740.14
+Washing Machine,1399,2005,Dec,Free,TAS,13997,New,744.05
+Washing Machine,1399,2006,Jan,Free,TAS,14020,New,747.96
+Washing Machine,1399,2007,Feb,$142 ,TAS,14043,Existing,751.87
+Washing Machine,1399,2008,Mar,$135 ,TAS,14066,Existing,755.78
+Washing Machine,1399,2009,Apr,Free,TAS,14089,New,759.69
+Washing Machine,1399,2010,May,Free,TAS,14112,New,763.6
+Washing Machine,1399,2011,Jun,Free,TAS,14135,New,767.51
+Washing Machine,1399,2012,Jul,$143 ,TAS,14158,New,771.42
+Washing Machine,1399,2013,Aug,$136 ,TAS,14181,New,775.33
+Washing Machine,1399,2014,Sep,Free,TAS,14204,Existing,779.24
+Washing Machine,1399,2015,Oct,Free,TAS,14227,Existing,783.15
+Washing Machine,1399,2016,Nov,Free,TAS,14250,New,787.06
+Washing Machine,1399,2017,Dec,$144 ,TAS,14273,New,790.97
+Vacuum Cleaner,1200,1818,Jan,$137 ,VIC,14296,New,16.8
+Vacuum Cleaner,1200,1819,Feb,Free,VIC,14319,Existing,19.6
+Vacuum Cleaner,1200,1820,Mar,Free,VIC,14342,Existing,25.9
+Vacuum Cleaner,1200,1821,Apr,Free,VIC,14365,New,29.1
+Vacuum Cleaner,1200,1822,May,$145 ,VIC,14388,New,33.9
+Vacuum Cleaner,1200,1823,Jun,$138 ,VIC,14411,New,38.17
+Vacuum Cleaner,1200,1824,Jul,Free,VIC,14434,New,42.54
+Vacuum Cleaner,1200,1825,Aug,Free,VIC,14457,New,46.91
+Vacuum Cleaner,1200,1826,Sep,Free,VIC,,Existing,51.28
+Vacuum Cleaner,1200,1827,Oct,$146 ,VIC,14503,Existing,55.65
+Vacuum Cleaner,1200,1828,Nov,$139 ,VIC,14526,New,60.02
+Vacuum Cleaner,1200,1829,Dec,Free,VIC,14549,New,64.39
+Vacuum Cleaner,1200,1830,Jan,Free,VIC,14572,New,68.76
+Vacuum Cleaner,1200,1831,Feb,Free,VIC,14595,New,73.13
+Vacuum Cleaner,1200,1832,Mar,$147 ,VIC,14618,New,77.5
+Vacuum Cleaner,1200,1833,Apr,$140 ,VIC,14641,Existing,81.87
+Vacuum Cleaner,1200,1834,May,Free,VIC,14664,Existing,86.24
+Vacuum Cleaner,1200,1835,Jun,Free,VIC,14687,New,90.61
+Vacuum Cleaner,1200,1836,Jul,Free,VIC,14710,New,94.98
+Vacuum Cleaner,1200,1837,Aug,$148 ,VIC,14733,New,99.35
+Vacuum Cleaner,1200,1838,Sep,$141 ,VIC,14756,New,103.72
+Vacuum Cleaner,1200,1839,Oct,Free,VIC,14779,New,108.09
+Vacuum Cleaner,1200,1840,Nov,Free,VIC,14802,Existing,112.46
+Vacuum Cleaner,1200,1841,Dec,Free,VIC,14825,Existing,116.83
+Vacuum Cleaner,1200,1842,Jan,$149 ,VIC,14848,New,121.2
+Vacuum Cleaner,1200,1843,Feb,$142 ,VIC,14871,New,125.57
+Vacuum Cleaner,1200,1844,Mar,Free,VIC,14894,New,129.94
+Vacuum Cleaner,1200,1845,Apr,Free,VIC,14917,New,134.31
+Vacuum Cleaner,1200,1846,May,Free,VIC,14940,New,138.68
+Vacuum Cleaner,1200,1847,Jun,$150 ,VIC,,Existing,143.05
+Vacuum Cleaner,1200,1848,Jul,$143 ,VIC,14986,Existing,147.42
+Vacuum Cleaner,1200,1849,Aug,Free,VIC,15009,New,151.79
+Vacuum Cleaner,1200,1850,Sep,Free,VIC,15032,Existing,156.16
+Vacuum Cleaner,1200,1851,Oct,Free,VIC,15055,Existing,160.53
+Vacuum Cleaner,1200,1852,Nov,$151 ,VIC,15078,New,164.9
+Vacuum Cleaner,1200,1853,Dec,$144 ,VIC,15101,New,169.27
+Vacuum Cleaner,1200,1854,Jan,Free,VIC,15124,New,173.64
+Vacuum Cleaner,1200,1855,Feb,Free,VIC,15147,New,178.01
+Vacuum Cleaner,1200,1856,Mar,Free,VIC,15170,New,182.38
+Vacuum Cleaner,1200,1857,Apr,$152 ,VIC,15193,Existing,186.75
+Vacuum Cleaner,1200,1858,May,$145 ,VIC,15216,Existing,191.12
+Vacuum Cleaner,1200,1859,Jun,Free,VIC,,New,195.49
+Vacuum Cleaner,1200,1860,Jul,Free,VIC,15262,New,199.86
+Vacuum Cleaner,1200,1861,Aug,Free,VIC,15285,New,204.23
+Vacuum Cleaner,1200,1862,Sep,$153 ,VIC,15308,New,208.6
+Vacuum Cleaner,1200,1863,Oct,$146 ,VIC,15331,New,212.97
+Vacuum Cleaner,1200,1864,Nov,Free,VIC,15354,Existing,217.34
+Vacuum Cleaner,1200,1865,Dec,Free,VIC,15377,Existing,221.71
+Vacuum Cleaner,1200,1866,Jan,Free,VIC,15400,New,226.08
+Vacuum Cleaner,1200,1867,Feb,$154 ,VIC,15423,New,230.45
+Vacuum Cleaner,1200,1868,Mar,$147 ,NSW,15446,New,234.82
+Vacuum Cleaner,1200,1869,Apr,Free,NSW,15469,Existing,239.19
+Vacuum Cleaner,1200,1870,May,Free,NSW,,Existing,243.56
+Vacuum Cleaner,1200,1871,Jun,Free,NSW,15515,New,247.93
+Vacuum Cleaner,1200,1872,Jul,$155 ,NSW,15538,New,252.3
+Vacuum Cleaner,1200,1873,Aug,$148 ,NSW,15561,New,256.67
+Vacuum Cleaner,1200,1874,Sep,Free,NSW,15584,New,261.04
+Vacuum Cleaner,1200,1875,Oct,Free,NSW,15607,New,265.41
+Vacuum Cleaner,1200,1876,Nov,Free,NSW,15630,Existing,269.78
+Vacuum Cleaner,1200,1877,Dec,$156 ,NSW,15653,Existing,274.15
+Vacuum Cleaner,1200,1878,Jan,,NSW,15676,New,278.52
+Vacuum Cleaner,1200,1879,Feb,Free,NSW,15699,New,282.89
+Vacuum Cleaner,1200,1880,Mar,Free,NSW,15722,New,287.26
+Vacuum Cleaner,1200,1881,Apr,Free,NSW,15745,New,291.63
+Vacuum Cleaner,1200,1882,May,$157 ,NSW,15768,New,296
+Vacuum Cleaner,1200,1883,Jun,$150 ,NSW,,Existing,300.37
+Vacuum Cleaner,1200,1884,Jul,Free,NSW,15814,Existing,304.74
+Vacuum Cleaner,1200,1885,Aug,Free,NSW,15837,New,309.11
+Vacuum Cleaner,1200,1886,Sep,Free,NSW,15860,New,313.48
+Vacuum Cleaner,1200,1887,Oct,$158 ,NSW,15883,New,317.85
+Vacuum Cleaner,1200,1888,Nov,$151 ,NSW,15906,New,322.22
+Vacuum Cleaner,1200,1889,Dec,Free,NSW,15929,New,326.59
+Vacuum Cleaner,1200,1890,Jan,Free,NSW,15952,Existing,330.96
+Vacuum Cleaner,1200,1891,Feb,Free,NSW,,Existing,335.33
+Vacuum Cleaner,1200,1892,Mar,$159 ,NSW,15998,New,339.7
+Vacuum Cleaner,1200,1893,Apr,$152 ,NSW,16021,New,344.07
+Vacuum Cleaner,1200,1894,May,Free,NSW,16044,New,348.44
+Vacuum Cleaner,1200,1895,Jun,Free,NSW,16067,New,352.81
+Vacuum Cleaner,1200,1896,Jul,,NSW,16090,New,357.18
+Vacuum Cleaner,1200,1897,Aug,$160 ,NSW,16113,Existing,361.55
+Vacuum Cleaner,1200,1898,Sep,$153 ,NSW,16136,Existing,365.92
+Vacuum Cleaner,1200,1899,Oct,Free,NSW,16159,New,370.29
+Vacuum Cleaner,1200,1900,Nov,Free,NSW,16182,Existing,374.66
+Vacuum Cleaner,1200,1901,Dec,Free,NSW,16205,Existing,379.03
+Vacuum Cleaner,1200,1902,Jan,$161 ,NSW,16228,New,383.4
+Vacuum Cleaner,1200,1903,Feb,$154 ,NSW,16251,New,387.77
+Vacuum Cleaner,1200,1904,Mar,Free,NSW,,New,392.14
+Vacuum Cleaner,1200,1905,Apr,Free,NSW,16297,New,396.51
+Vacuum Cleaner,1200,1906,May,Free,NSW,16320,New,400.88
+Vacuum Cleaner,1200,1907,Jun,$162 ,NSW,16343,Existing,405.25
+Vacuum Cleaner,1200,1908,Jul,$155 ,NSW,16366,Existing,409.62
+Vacuum Cleaner,1200,1909,Aug,Free,NSW,16389,New,413.99
+Vacuum Cleaner,1200,1910,Sep,Free,NSW,16412,New,418.36
+Vacuum Cleaner,1200,1911,Oct,Free,NSW,16435,New,422.73
+Vacuum Cleaner,1200,1912,Nov,$163 ,NSW,,New,427.1
+Vacuum Cleaner,1200,1913,Dec,$156 ,NSW,16481,New,431.47
+Vacuum Cleaner,1200,1914,Jan,,NSW,16504,Existing,435.84
+Vacuum Cleaner,1200,1915,Feb,Free,NSW,16527,Existing,440.21
+Vacuum Cleaner,1200,1916,Mar,Free,QLD,16550,New,444.58
+Vacuum Cleaner,1200,1917,Apr,$164 ,QLD,16573,New,448.95
+Vacuum Cleaner,1200,1918,May,$157 ,QLD,16596,New,453.32
+Vacuum Cleaner,1200,1919,Jun,Free,QLD,16619,Existing,457.69
+Vacuum Cleaner,1200,1920,Jul,Free,QLD,16642,Existing,462.06
+Vacuum Cleaner,1200,1921,Aug,Free,QLD,16665,New,466.43
+Vacuum Cleaner,1200,1922,Sep,$165 ,QLD,16688,New,470.8
+Vacuum Cleaner,1200,1923,Oct,$158 ,QLD,16711,New,475.17
+Vacuum Cleaner,1200,1924,Nov,Free,QLD,16734,New,479.54
+Vacuum Cleaner,1200,1925,Dec,Free,QLD,,New,483.91
+Vacuum Cleaner,1200,1926,Jan,Free,QLD,16780,Existing,488.28
+Vacuum Cleaner,1200,1927,Feb,$166 ,QLD,16803,Existing,492.65
+Vacuum Cleaner,1200,1928,Mar,$159 ,QLD,16826,New,497.02
+Vacuum Cleaner,1200,1929,Apr,Free,QLD,16849,New,501.39
+Vacuum Cleaner,1200,1930,May,Free,QLD,16872,New,505.76
+Vacuum Cleaner,1200,1931,Jun,Free,QLD,16895,New,510.13
+Vacuum Cleaner,1200,1932,Jul,,QLD,16918,New,514.5
+Vacuum Cleaner,1200,1933,Aug,$160 ,QLD,16941,Existing,518.87
+Vacuum Cleaner,1200,1934,Sep,Free,QLD,16964,Existing,523.24
+Vacuum Cleaner,1200,1935,Oct,Free,QLD,16987,New,527.61
+Vacuum Cleaner,1200,1936,Nov,Free,QLD,,New,531.98
+Vacuum Cleaner,1200,1937,Dec,$168 ,QLD,17033,New,536.35
+Vacuum Cleaner,1200,1938,Jan,$161 ,QLD,17056,New,540.72
+Vacuum Cleaner,1200,1939,Feb,Free,QLD,17079,New,545.09
+Vacuum Cleaner,1200,1940,Mar,Free,QLD,17102,Existing,549.46
+Vacuum Cleaner,1200,1941,Apr,Free,QLD,17125,Existing,553.83
+Vacuum Cleaner,1200,1942,May,$169 ,QLD,17148,New,558.2
+Vacuum Cleaner,1200,1943,Jun,$162 ,QLD,17171,New,562.57
+Vacuum Cleaner,1200,1944,Jul,Free,QLD,17194,New,566.94
+Vacuum Cleaner,1200,1945,Aug,Free,QLD,17217,New,571.31
+Vacuum Cleaner,1200,1946,Sep,Free,QLD,,New,575.68
+Vacuum Cleaner,1200,1947,Oct,$170 ,QLD,17263,Existing,580.05
+Vacuum Cleaner,1200,1948,Nov,$163 ,QLD,17286,Existing,584.42
+Vacuum Cleaner,1200,1949,Dec,Free,QLD,17309,New,588.79
+Vacuum Cleaner,1200,1950,Jan,,QLD,17332,Existing,593.16
+Vacuum Cleaner,1200,1951,Feb,Free,QLD,17355,Existing,597.53
+Vacuum Cleaner,1200,1952,Mar,$171 ,QLD,17378,New,601.9
+Vacuum Cleaner,1200,1953,Apr,$164 ,QLD,17401,New,606.27
+Vacuum Cleaner,1200,1954,May,Free,QLD,,New,610.64
+Vacuum Cleaner,1200,1955,Jun,Free,QLD,17447,New,615.01
+Vacuum Cleaner,1200,1956,Jul,Free,QLD,17470,New,619.38
+Vacuum Cleaner,1200,1957,Aug,$172 ,QLD,17493,Existing,623.75
+Vacuum Cleaner,1200,1958,Sep,$165 ,QLD,17516,Existing,628.12
+Vacuum Cleaner,1200,1959,Oct,Free,QLD,17539,New,632.49
+Vacuum Cleaner,1200,1960,Nov,Free,QLD,17562,New,636.86
+Vacuum Cleaner,1200,1961,Dec,Free,QLD,17585,New,641.23
+Vacuum Cleaner,1200,1962,Jan,$173 ,QLD,17608,New,645.6
+Vacuum Cleaner,1200,1963,Feb,$166 ,QLD,17631,New,649.97
+Vacuum Cleaner,1200,1964,Mar,Free,QLD,,Existing,654.34
+Vacuum Cleaner,1200,1965,Apr,Free,QLD,17677,Existing,658.71
+Vacuum Cleaner,1200,1966,May,Free,QLD,17700,New,663.08
+Vacuum Cleaner,1200,1967,Jun,$174 ,QLD,17723,New,667.45
+Vacuum Cleaner,1200,1968,Jul,,TAS,17746,New,671.82
+Vacuum Cleaner,1200,1969,Aug,Free,TAS,17769,Existing,676.19
+Vacuum Cleaner,1200,1970,Sep,Free,TAS,17792,Existing,680.56
+Vacuum Cleaner,1200,1971,Oct,Free,TAS,17815,New,684.93
+Vacuum Cleaner,1200,1972,Nov,$175 ,TAS,17838,New,689.3
+Vacuum Cleaner,1200,1973,Dec,$168 ,TAS,17861,New,693.67
+Vacuum Cleaner,1200,1974,Jan,Free,TAS,17884,New,698.04
+Vacuum Cleaner,1200,1975,Feb,Free,TAS,,New,702.41
+Vacuum Cleaner,1200,1976,Mar,Free,TAS,17930,Existing,706.78
+Vacuum Cleaner,1200,1977,Apr,$176 ,TAS,17953,Existing,711.15
+Vacuum Cleaner,1200,1978,May,$169 ,TAS,17976,New,715.52
+Vacuum Cleaner,1200,1979,Jun,Free,TAS,17999,New,719.89
+Vacuum Cleaner,1200,1980,Jul,Free,TAS,18022,New,724.26
+Vacuum Cleaner,1200,1981,Aug,Free,TAS,18045,New,728.63
+Vacuum Cleaner,1200,1982,Sep,$177 ,TAS,,New,733
+Vacuum Cleaner,1200,1983,Oct,$170 ,TAS,18091,Existing,737.37
+Vacuum Cleaner,1200,1984,Nov,,TAS,18114,Existing,741.74
+Vacuum Cleaner,1200,1985,Dec,Free,TAS,18137,New,746.11
+Vacuum Cleaner,1200,1986,Jan,Free,TAS,18160,New,750.48
+Vacuum Cleaner,1200,1987,Feb,$178 ,TAS,18183,New,754.85
+Vacuum Cleaner,1200,1988,Mar,$171 ,TAS,18206,New,759.22
+Vacuum Cleaner,1200,1989,Apr,Free,TAS,18229,New,763.59
+Vacuum Cleaner,1200,1990,May,Free,TAS,18252,Existing,767.96
+Vacuum Cleaner,1200,1991,Jun,Free,TAS,18275,Existing,772.33
+Vacuum Cleaner,1200,1992,Jul,$179 ,TAS,18298,New,776.7
+Vacuum Cleaner,1200,1993,Aug,$172 ,TAS,18321,New,781.07
+Vacuum Cleaner,1200,1994,Sep,Free,TAS,18344,New,785.44
+Vacuum Cleaner,1200,1995,Oct,Free,TAS,18367,New,789.81
+Vacuum Cleaner,1200,1996,Nov,Free,TAS,,New,794.18
+Vacuum Cleaner,1200,1997,Dec,$180 ,TAS,18413,Existing,798.55
+Vacuum Cleaner,1200,1998,Jan,$173 ,TAS,18436,Existing,802.92
+Vacuum Cleaner,1200,1999,Feb,Free,TAS,18459,New,807.29
+Vacuum Cleaner,1200,2000,Mar,Free,TAS,18482,Existing,811.66
+Vacuum Cleaner,1200,2001,Apr,Free,TAS,18505,Existing,816.03
+Vacuum Cleaner,1200,2002,May,$181 ,TAS,18528,New,820.4
+Vacuum Cleaner,1200,2003,Jun,,TAS,,New,824.77
+Vacuum Cleaner,1200,2004,Jul,Free,TAS,18574,New,829.14
+Vacuum Cleaner,1200,2005,Aug,Free,TAS,18597,New,833.51
+Vacuum Cleaner,1200,2006,Sep,Free,TAS,18620,New,837.88
+Vacuum Cleaner,1200,2007,Oct,$182 ,TAS,18643,Existing,842.25
+Vacuum Cleaner,1200,2008,Nov,$175 ,TAS,18666,Existing,846.62
+Vacuum Cleaner,1200,2009,Dec,Free,TAS,18689,New,850.99
+Vacuum Cleaner,1200,2010,Jan,Free,TAS,18712,New,855.36
+Vacuum Cleaner,1200,2011,Feb,Free,TAS,18735,New,859.73
+Vacuum Cleaner,1200,2012,Mar,$183 ,TAS,18758,New,864.1
+Vacuum Cleaner,1200,2013,Apr,$176 ,TAS,18781,New,868.47
+Vacuum Cleaner,1200,2014,May,Free,TAS,18804,Existing,872.84
+Vacuum Cleaner,1200,2015,Jun,Free,TAS,18827,Existing,877.21
+Vacuum Cleaner,1200,2016,Jul,Free,TAS,18850,New,881.58
+Vacuum Cleaner,1200,2017,Aug,$184 ,TAS,18873,New,885.95
+Air Conditioner,999,1818,Sep,$177 ,VIC,18896,New,19.1
+Air Conditioner,999,1819,Oct,Free,VIC,18919,Existing,24.9
+Air Conditioner,999,1820,Nov,Free,VIC,,Existing,29.7
+Air Conditioner,999,1821,Dec,Free,VIC,18965,New,35.9
+Air Conditioner,999,1822,Jan,$185 ,VIC,18988,New,45.8
+Air Conditioner,999,1823,Feb,,VIC,19011,New,50.4
+Air Conditioner,999,1824,Mar,Free,VIC,19034,New,56.84
+Air Conditioner,999,1825,Apr,Free,VIC,19057,New,63.28
+Air Conditioner,999,1826,May,Free,VIC,19080,Existing,69.72
+Air Conditioner,999,1827,Jun,$186 ,VIC,19103,Existing,76.16
+Air Conditioner,999,1828,Jul,$179 ,VIC,19126,New,82.6
+Air Conditioner,999,1829,Aug,Free,VIC,19149,New,89.04
+Air Conditioner,999,1830,Sep,Free,VIC,19172,New,95.48
+Air Conditioner,999,1831,Oct,Free,VIC,19195,New,101.92
+Air Conditioner,999,1832,Nov,$187 ,VIC,19218,New,108.36
+Air Conditioner,999,1833,Dec,$180 ,VIC,,Existing,114.8
+Air Conditioner,999,1834,Jan,Free,VIC,19264,Existing,121.24
+Air Conditioner,999,1835,Feb,Free,VIC,19287,New,127.68
+Air Conditioner,999,1836,Mar,Free,VIC,19310,New,134.12
+Air Conditioner,999,1837,Apr,$188 ,VIC,19333,New,140.56
+Air Conditioner,999,1838,May,$181 ,VIC,19356,New,147
+Air Conditioner,999,1839,Jun,Free,VIC,19379,New,153.44
+Air Conditioner,999,1840,Jul,Free,VIC,19402,Existing,159.88
+Air Conditioner,999,1841,Aug,,VIC,,Existing,166.32
+Air Conditioner,999,1842,Sep,$189 ,VIC,19448,New,172.76
+Air Conditioner,999,1843,Oct,$182 ,VIC,19471,New,179.2
+Air Conditioner,999,1844,Nov,Free,VIC,19494,New,185.64
+Air Conditioner,999,1845,Dec,Free,VIC,19517,New,192.08
+Air Conditioner,999,1846,Jan,Free,VIC,19540,New,198.52
+Air Conditioner,999,1847,Feb,$190 ,VIC,19563,Existing,204.96
+Air Conditioner,999,1848,Mar,$183 ,VIC,19586,Existing,211.4
+Air Conditioner,999,1849,Apr,Free,VIC,19609,New,217.84
+Air Conditioner,999,1850,May,Free,VIC,19632,Existing,224.28
+Air Conditioner,999,1851,Jun,Free,VIC,19655,Existing,230.72
+Air Conditioner,999,1852,Jul,$191 ,VIC,19678,New,237.16
+Air Conditioner,999,1853,Aug,$184 ,VIC,19701,New,243.6
+Air Conditioner,999,1854,Sep,Free,VIC,19724,New,250.04
+Air Conditioner,999,1855,Oct,Free,VIC,19747,New,256.48
+Air Conditioner,999,1856,Nov,Free,VIC,19770,New,262.92
+Air Conditioner,999,1857,Dec,$192 ,VIC,19793,Existing,269.36
+Air Conditioner,999,1858,Jan,$185 ,VIC,19816,Existing,275.8
+Air Conditioner,999,1859,Feb,Free,VIC,19839,New,282.24
+Air Conditioner,999,1860,Mar,Free,VIC,,New,288.68
+Air Conditioner,999,1861,Apr,Free,VIC,19885,New,295.12
+Air Conditioner,999,1862,May,,VIC,,New,301.56
+Air Conditioner,999,1863,Jun,$186 ,VIC,19931,New,308
+Air Conditioner,999,1864,Jul,Free,VIC,19954,Existing,314.44
+Air Conditioner,999,1865,Aug,Free,VIC,19977,Existing,320.88
+Air Conditioner,999,1866,Sep,Free,VIC,20000,New,327.32
+Air Conditioner,999,1867,Oct,$194 ,VIC,20023,New,333.76
+Air Conditioner,999,1868,Nov,$187 ,NSW,20046,New,340.2
+Air Conditioner,999,1869,Dec,Free,NSW,20069,Existing,346.64
+Air Conditioner,999,1870,Jan,Free,NSW,20092,Existing,353.08
+Air Conditioner,999,1871,Feb,Free,NSW,20115,New,359.52
+Air Conditioner,999,1872,Mar,$195 ,NSW,20138,New,365.96
+Air Conditioner,999,1873,Apr,$188 ,NSW,20161,New,372.4
+Air Conditioner,999,1874,May,Free,NSW,20184,New,378.84
+Air Conditioner,999,1875,Jun,Free,NSW,20207,New,385.28
+Air Conditioner,999,1876,Jul,Free,NSW,20230,Existing,391.72
+Air Conditioner,999,1877,Aug,$196 ,NSW,20253,Existing,398.16
+Air Conditioner,999,1878,Sep,$189 ,NSW,20276,New,404.6
+Air Conditioner,999,1879,Oct,Free,NSW,20299,New,411.04
+Air Conditioner,999,1880,Nov,,NSW,20322,New,417.48
+Air Conditioner,999,1881,Dec,Free,NSW,,New,423.92
+Air Conditioner,999,1882,Jan,$197 ,NSW,20368,New,430.36
+Air Conditioner,999,1883,Feb,$190 ,NSW,,Existing,436.8
+Air Conditioner,999,1884,Mar,Free,NSW,20414,Existing,443.24
+Air Conditioner,999,1885,Apr,Free,NSW,20437,New,449.68
+Air Conditioner,999,1886,May,Free,NSW,20460,New,456.12
+Air Conditioner,999,1887,Jun,$198 ,NSW,20483,New,462.56
+Air Conditioner,999,1888,Jul,$191 ,NSW,20506,New,469
+Air Conditioner,999,1889,Aug,Free,NSW,20529,New,475.44
+Air Conditioner,999,1890,Sep,Free,NSW,20552,Existing,481.88
+Air Conditioner,999,1891,Oct,Free,NSW,20575,Existing,488.32
+Air Conditioner,999,1892,Nov,$199 ,NSW,20598,New,494.76
+Air Conditioner,999,1893,Dec,$192 ,NSW,20621,New,501.2
+Air Conditioner,999,1894,Jan,Free,NSW,20644,New,507.64
+Air Conditioner,999,1895,Feb,Free,NSW,20667,New,514.08
+Air Conditioner,999,1896,Mar,Free,NSW,20690,New,520.52
+Air Conditioner,999,1897,Apr,$200 ,NSW,20713,Existing,526.96
+Air Conditioner,999,1898,May,$193 ,NSW,20736,Existing,533.4
+Air Conditioner,999,1899,Jun,Free,NSW,20759,New,539.84
+Air Conditioner,999,1900,Jul,Free,NSW,20782,Existing,546.28
+Air Conditioner,999,1901,Aug,,NSW,20805,Existing,552.72
+Air Conditioner,999,1902,Sep,$201 ,NSW,20828,New,559.16
+Air Conditioner,999,1903,Oct,$194 ,NSW,20851,New,565.6
+Air Conditioner,999,1904,Nov,Free,NSW,,New,572.04
+Air Conditioner,999,1905,Dec,Free,NSW,20897,New,578.48
+Air Conditioner,999,1906,Jan,Free,NSW,20920,New,584.92
+Air Conditioner,999,1907,Feb,$202 ,NSW,20943,Existing,591.36
+Air Conditioner,999,1908,Mar,$195 ,NSW,20966,Existing,597.8
+Air Conditioner,999,1909,Apr,Free,NSW,20989,New,604.24
+Air Conditioner,999,1910,May,Free,NSW,21012,New,610.68
+Air Conditioner,999,1911,Jun,Free,NSW,21035,New,617.12
+Air Conditioner,999,1912,Jul,$203 ,NSW,21058,New,623.56
+Air Conditioner,999,1913,Aug,$196 ,NSW,21081,New,630
+Air Conditioner,999,1914,Sep,Free,NSW,21104,Existing,636.44
+Air Conditioner,999,1915,Oct,Free,NSW,21127,Existing,642.88
+Air Conditioner,999,1916,Nov,Free,QLD,21150,New,649.32
+Air Conditioner,999,1917,Dec,$204 ,QLD,,New,655.76
+Air Conditioner,999,1918,Jan,$197 ,QLD,21196,New,662.2
+Air Conditioner,999,1919,Feb,Free,QLD,21219,Existing,668.64
+Air Conditioner,999,1920,Mar,Free,QLD,21242,Existing,675.08
+Air Conditioner,999,1921,Apr,Free,QLD,21265,New,681.52
+Air Conditioner,999,1922,May,,QLD,,New,687.96
+Air Conditioner,999,1923,Jun,$198 ,QLD,21311,New,694.4
+Air Conditioner,999,1924,Jul,Free,QLD,21334,New,700.84
+Air Conditioner,999,1925,Aug,Free,QLD,21357,New,707.28
+Air Conditioner,999,1926,Sep,Free,QLD,21380,Existing,713.72
+Air Conditioner,999,1927,Oct,$206 ,QLD,21403,Existing,720.16
+Air Conditioner,999,1928,Nov,$199 ,QLD,21426,New,726.6
+Air Conditioner,999,1929,Dec,Free,QLD,21449,New,733.04
+Air Conditioner,999,1930,Jan,Free,QLD,21472,New,739.48
+Air Conditioner,999,1931,Feb,Free,QLD,21495,New,745.92
+Air Conditioner,999,1932,Mar,$207 ,QLD,21518,New,752.36
+Air Conditioner,999,1933,Apr,$200 ,QLD,21541,Existing,758.8
+Air Conditioner,999,1934,May,Free,QLD,21564,Existing,765.24
+Air Conditioner,999,1935,Jun,Free,QLD,21587,New,771.68
+Air Conditioner,999,1936,Jul,Free,QLD,21610,New,778.12
+Air Conditioner,999,1937,Aug,$208 ,QLD,21633,New,784.56
+Air Conditioner,999,1938,Sep,$201 ,QLD,21656,New,791
+Air Conditioner,999,1939,Oct,Free,QLD,21679,New,797.44
+Air Conditioner,999,1940,Nov,Free,QLD,21702,Existing,803.88
+Air Conditioner,999,1941,Dec,Free,QLD,21725,Existing,810.32
+Air Conditioner,999,1942,Jan,,QLD,21748,New,816.76
+Air Conditioner,999,1943,Feb,$202 ,QLD,,New,823.2
+Air Conditioner,999,1944,Mar,Free,QLD,21794,New,829.64
+Air Conditioner,999,1945,Apr,Free,QLD,21817,New,836.08
+Air Conditioner,999,1946,May,Free,QLD,21840,New,842.52
+Air Conditioner,999,1947,Jun,$210 ,QLD,21863,Existing,848.96
+Air Conditioner,999,1948,Jul,$203 ,QLD,21886,Existing,855.4
+Air Conditioner,999,1949,Aug,Free,QLD,21909,New,861.84
+Air Conditioner,999,1950,Sep,Free,QLD,21932,Existing,868.28
+Air Conditioner,999,1951,Oct,Free,QLD,21955,Existing,874.72
+Air Conditioner,999,1952,Nov,$211 ,QLD,21978,New,881.16
+Air Conditioner,999,1953,Dec,$204 ,QLD,22001,New,887.6
+Air Conditioner,999,1954,Jan,Free,QLD,22024,New,894.04
+Air Conditioner,999,1955,Feb,Free,QLD,22047,New,900.48
+Air Conditioner,999,1956,Mar,Free,QLD,,New,906.92
+Air Conditioner,999,1957,Apr,$212 ,QLD,22093,Existing,913.36
+Air Conditioner,999,1958,May,$205 ,QLD,22116,Existing,919.8
+Air Conditioner,999,1959,Jun,Free,QLD,22139,New,926.24
+Air Conditioner,999,1960,Jul,Free,QLD,22162,New,932.68
+Air Conditioner,999,1961,Aug,Free,QLD,,New,939.12
+Air Conditioner,999,1962,Sep,$213 ,QLD,22208,New,945.56
+Air Conditioner,999,1963,Oct,,QLD,22231,New,952
+Air Conditioner,999,1964,Nov,Free,QLD,22254,Existing,958.44
+Air Conditioner,999,1965,Dec,Free,QLD,22277,Existing,964.88
+Air Conditioner,999,1966,Jan,Free,QLD,,New,971.32
+Air Conditioner,999,1967,Feb,$214 ,QLD,22323,New,977.76
+Air Conditioner,999,1968,Mar,$207 ,TAS,22346,New,984.2
+Air Conditioner,999,1969,Apr,Free,TAS,22369,Existing,990.64
+Air Conditioner,999,1970,May,Free,TAS,22392,Existing,997.08
+Air Conditioner,999,1971,Jun,Free,TAS,22415,New,1003.52
+Air Conditioner,999,1972,Jul,$215 ,TAS,22438,New,1009.96
+Air Conditioner,999,1973,Aug,$208 ,TAS,22461,New,1016.4
+Air Conditioner,999,1974,Sep,Free,TAS,22484,New,1022.84
+Air Conditioner,999,1975,Oct,Free,TAS,22507,New,1029.28
+Air Conditioner,999,1976,Nov,Free,TAS,22530,Existing,1035.72
+Air Conditioner,999,1977,Dec,$216 ,TAS,,Existing,1042.16
+Air Conditioner,999,1978,Jan,$209 ,TAS,22576,New,1048.6
+Air Conditioner,999,1979,Feb,Free,TAS,22599,New,1055.04
+Air Conditioner,999,1980,Mar,Free,TAS,22622,New,1061.48
+Air Conditioner,999,1981,Apr,Free,TAS,22645,New,1067.92
+Air Conditioner,999,1982,May,$217 ,TAS,22668,New,1074.36
+Air Conditioner,999,1983,Jun,$210 ,TAS,22691,Existing,1080.8
+Air Conditioner,999,1984,Jul,Free,TAS,22714,Existing,1087.24
+Air Conditioner,999,1985,Aug,Free,TAS,22737,New,1093.68
+Air Conditioner,999,1986,Sep,Free,TAS,22760,New,1100.12
+Air Conditioner,999,1987,Oct,$218 ,TAS,22783,New,1106.56
+Air Conditioner,999,1988,Nov,$211 ,TAS,22806,New,1113
+Air Conditioner,999,1989,Dec,Free,TAS,22829,New,1119.44
+Air Conditioner,999,1990,Jan,Free,TAS,22852,Existing,1125.88
+Air Conditioner,999,1991,Feb,Free,TAS,22875,Existing,1132.32
+Air Conditioner,999,1992,Mar,$219 ,TAS,22898,New,1138.76
+Air Conditioner,999,1993,Apr,$212 ,TAS,22921,New,1145.2
+Air Conditioner,999,1994,May,Free,TAS,22944,New,1151.64
+Air Conditioner,999,1995,Jun,Free,TAS,22967,New,1158.08
+Air Conditioner,999,1996,Jul,Free,TAS,22990,New,1164.52
+Air Conditioner,999,1997,Aug,$220 ,TAS,23013,Existing,1170.96
+Air Conditioner,999,1998,Sep,$213 ,TAS,23036,Existing,1177.4
+Air Conditioner,999,1999,Oct,Free,TAS,23059,New,1183.84
+Air Conditioner,999,2000,Nov,Free,TAS,23082,Existing,1190.28
+Air Conditioner,999,2001,Dec,Free,TAS,,Existing,1196.72
+Air Conditioner,999,2002,Jan,$221 ,TAS,23128,New,1203.16
+Air Conditioner,999,2003,Feb,,TAS,23151,New,1209.6
+Air Conditioner,999,2004,Mar,Free,TAS,23174,New,1216.04
+Air Conditioner,999,2005,Apr,Free,TAS,23197,New,1222.48
+Air Conditioner,999,2006,May,Free,TAS,23220,New,1228.92
+Air Conditioner,999,2007,Jun,$222 ,TAS,23243,Existing,1235.36
+Air Conditioner,999,2008,Jul,$215 ,TAS,23266,Existing,1241.8
+Air Conditioner,999,2009,Aug,Free,TAS,23289,New,1248.24
+Air Conditioner,999,2010,Sep,Free,TAS,23312,New,1254.68
+Air Conditioner,999,2011,Oct,Free,TAS,,New,1261.12
+Air Conditioner,999,2012,Nov,$223 ,TAS,23358,New,1267.56
+Air Conditioner,999,2013,Dec,$216 ,TAS,23381,New,1274
+Air Conditioner,999,2014,Jan,Free,TAS,23404,Existing,1280.44
+Air Conditioner,999,2015,Feb,Free,TAS,23427,Existing,1286.88
+Air Conditioner,999,2016,Mar,Free,TAS,23450,New,1293.32
+Air Conditioner,999,2017,Apr,,TAS,23473,New,1299.76
